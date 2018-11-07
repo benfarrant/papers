@@ -1,11 +1,11 @@
 # Title
-Aircraft Measurements of Biomass Burning Aerosol Over W. Africa
+Aircraft Measurements of Biomass Burning Aerosol Over Western Africa
 
 # Author
-Benjamin Farrant
+Benjamin Euan Farrant
 
 # Introduction
-Hayword et al. (1999) made some great measurements of BBOA over the Shara. 
+Hayword et al. (1999) made some great measurements of BBOA over the Sahara in Africa. 
 We add to these measurements, with chemical composition data, using an aerosol mass spectromemter (Allen et al, 2000)
 
 
