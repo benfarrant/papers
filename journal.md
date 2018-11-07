@@ -2,8 +2,8 @@
 Model-measurement Comparison of  Biomass Burning Aerosol Over W. Africa
 
 # Author
-John Smith, University of Elsewhere
-Benjamin Farrant, University of Manchester
+John Smith, University of Bitters, Smooth Campus
+Benjamin Farrant, University of Manchester, Impact Meltz Gang
 
 # Abstract
 We write this last because it's difficult to do.
