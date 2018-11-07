@@ -1,5 +1,5 @@
 # Title
-Biomass Burning Aerosol Over W. Africa
+Aircraft Measurements of Biomass Burning Aerosol Over W. Africa
 
 # Author
 Benjamin Farrant
