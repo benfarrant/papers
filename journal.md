@@ -5,11 +5,14 @@ Model-measurement Comparison of  Biomass Burning Aerosol Over W. Africa
 Benjamin Farrant
 John Smith
 
+# Abstract
+We write this last because it's difficult to do.
+This is where we summarise our main results so lazy people don't have to read the whole thing but can still reference it.
+
 # Introduction
 Hayword et al. (1999) made some great measurements of BBOA over the Sahara. 
 We add to these measurements, with chemical composition data, using an aerosol mass spectromemter 
 (Allen et al, 2000).
-
 
 # Simulations
 John has made some simulations or particle formation using his box model. It reproduces the growth in size 
