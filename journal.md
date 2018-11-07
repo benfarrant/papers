@@ -2,8 +2,8 @@
 Model-measurement Comparison of  Biomass Burning Aerosol Over W. Africa
 
 # Author
-Benjamin Farrant
 John Smith
+Benjamin Farrant
 
 # Abstract
 We write this last because it's difficult to do.
