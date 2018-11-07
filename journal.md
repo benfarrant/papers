@@ -17,3 +17,7 @@ distribution observed and suggests coagulation as the dominant method.
 
 # Methodology
 We used an AMS (Allan et al, 1999) to measure particle mass and chemical composition.
+
+# Conclusions
+We made some groundbreaking discovery, aren't we great.
+There's more to do, give us more funding.
